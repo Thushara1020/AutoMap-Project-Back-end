@@ -17,4 +17,5 @@ public class CarCountry {
     private String countryName;
     private String brand;
     private String image;
+    private String discription;
 }
