@@ -34,6 +34,5 @@ public class Car {
     private int airbagCount;
     private String tireSize;
     private String mainGrades;
-    private String image;
 
 }
