@@ -19,14 +19,14 @@ public class Car {
     private String description;
     private String year;
     private String price;
-    private String engineType;      // e.g., Petrol, Diesel, Hybrid, Electric
-    private String transmission;    // e.g., Automatic, Manual, CVT
-    private String engineCapacity;  // e.g., 1500cc
+    private String engineType;
+    private String transmission;
+    private String engineCapacity;
     private String engineModel;
-    private String topSpeed;        // e.g., 200 km/h
-    private String fuelConsumption; // e.g., 15 km/L
-    private String dimensions;      // e.g., 4625 x 1815 x 1430 mm
-    private String curbWeight;      // Weight (Curb)
+    private String topSpeed;
+    private String fuelConsumption;
+    private String dimensions;
+    private String curbWeight;
     private String groundClearance;
     private String bootSpace;
     private String turningRadius;
